@@ -1,0 +1,2 @@
+org.apache.spark.sql.clickhouse.v2.ClickHouseTableProvider
+org.apache.spark.sql.clickhouse.v1.ClickHouseSourceProvider
